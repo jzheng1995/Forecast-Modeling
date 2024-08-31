@@ -1,0 +1,12 @@
+jupyter
+scikit-learn
+matplotlib
+seaborn
+pandas
+yfinance
+requests
+requests_cache
+requests_ratelimiter
+pyrate_limiter
+xgboost
+lightgbm
